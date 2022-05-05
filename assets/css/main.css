@@ -42,6 +42,8 @@ blockquote, q {
 	quotes: none;
 }
 
+Lunching into Cyber Security November 2021
+
 	blockquote:before, blockquote:after, q:before, q:after {
 		content: '';
 		content: none;
