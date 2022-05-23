@@ -1,4 +1,4 @@
-<h3><b> Unit Summarys and Analysis</b></h2>
+<h3><b> Unit Summarys and Analysis</b></h3>
 						<div class="content">
 							
 							<p><ul>
@@ -11,7 +11,6 @@
 								<li> <a href="NetwrokSEC.html" class="special">Disscusion 2  </a> </li>
 								<li> <a href="NetwrokSEC.html" class="special">Peer Response 1</a> </li>
 								<li> <a href="NetwrokSEC.html" class="special">Peer Response 2</a> </li>
-							</ul>
-							</p>
+							</ul></p>
 							</br>
 							</div>
